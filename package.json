@@ -1,0 +1,16 @@
+{
+  "name": "discord-moderasyon-bot-cjs-full",
+  "version": "1.2.0",
+  "description": "Gelişmiş moderasyon botu - Node.js discord.js v14 CommonJS Tam Sürüm",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "@discordjs/rest": "^1.4.0",
+    "discord-api-types": "^0.37.43",
+    "node-schedule": "^2.1.1"
+  }
+}
