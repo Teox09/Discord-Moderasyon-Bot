@@ -1,4 +1,4 @@
-"""# 🎛️ Discord Moderasyon Botu (CommonJS Full)
+🎛️ Discord Moderasyon Botu (CommonJS Full)
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-brightgreen?logo=node.js)](https://nodejs.org/)
 [![discord.js](https://img.shields.io/badge/discord.js-v14-blue?logo=discord)](https://discord.js.org/)
